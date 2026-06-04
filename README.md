@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/33addb7e-f5e6-470b-a55b-0a8babc62ebb/project/790ea500-6623-4ca0-8d24-29c31f9bb2c5.svg?style=flat-square)](https://wakatime.com/badge/user/33addb7e-f5e6-470b-a55b-0a8babc62ebb/project/790ea500-6623-4ca0-8d24-29c31f9bb2c5)
 
-- V0.1 of this project: https://github.com/psycho-baller/UCalgary-research-participation
+- V0.1 of this project: https://github.com/rami-maalouf/UCalgary-research-participation
 
 ## Table of contents
 
@@ -46,7 +46,7 @@ Please [connect with me](#connect-with-me) if you have any good ideas to improve
 
 # Connect with me
 
-if you face any problems or interested in learning how I did this, please feel free to [add an issue](https://github.com/psycho-baller/open-seat-Notifier/issues) or contact me through:
+if you face any problems or interested in learning how I did this, please feel free to [add an issue](https://github.com/rami-maalouf/open-seat-Notifier/issues) or contact me through:
 
 discord: `Rami#2782`
 

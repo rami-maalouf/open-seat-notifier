@@ -51,7 +51,7 @@ export const HelpButton = () => {
             <PopoverFooter>
               <a
                 className={`text-lime-300 hover:text-orange-300`}
-                href="https://github.com/psycho-baller/open-seat-notifier/issues"
+                href="https://github.com/rami-maalouf/open-seat-notifier/issues"
                 rel="noopener noreferrer"
                 target="_blank"
               >

@@ -55,7 +55,7 @@ const InfoButton = () => {
         </PopoverBody>
         <PopoverFooter>
           <a
-            href="https://github.com/psycho-baller/open-seat-notifier"
+            href="https://github.com/rami-maalouf/open-seat-notifier"
             className={`text-lime-300 hover:text-orange-300`}
             target="_blank"
             rel="noopener noreferrer"

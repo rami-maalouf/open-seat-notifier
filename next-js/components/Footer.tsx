@@ -23,7 +23,7 @@ export default function Footer() {
 
       <footer className={styles.footer}>
         <a
-          href="https://github.com/psycho-baller/open-seat-notifier"
+          href="https://github.com/rami-maalouf/open-seat-notifier"
           target={"_blank"}
           rel={"noopener noreferrer"}
         >
